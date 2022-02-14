@@ -9,6 +9,9 @@ public class Main {
         System.out.println("-----");
         bruteforcer.setInput("XLIASVPHAMHIAIF");
         bruteforcer.crack();
+        System.out.println("-----");
+        bruteforcer.setInput("YGOROTMOYCGEZUUYRUCZUZXGBKR");
+        bruteforcer.crack();
     }
 
 }
