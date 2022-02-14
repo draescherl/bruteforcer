@@ -24,4 +24,8 @@ public class Bruteforcer {
         else System.out.println("Cipher not supported by this bruteforce system yet.");
     }
 
+    public void setInput(String input) {
+        this.cipher.setInput(input);
+    }
+
 }
